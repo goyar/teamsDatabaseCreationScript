@@ -1,0 +1,30 @@
+[
+    {
+        "CategoryName": "Category 1",
+        "MaxAge": 6,
+        "MinAge": 4,
+        "MaxPlayers": 10,
+        "MonthlyFee": 400
+    },
+    {
+        "CategoryName": "Category 2",
+        "MaxAge": 9,
+        "MinAge": 7,
+        "MaxPlayers": 10,
+        "MonthlyFee": 400
+    },
+    {
+        "CategoryName": "Category 3",
+        "MaxAge": 12,
+        "MinAge": 10,
+        "MaxPlayers": 15,
+        "MonthlyFee": 300
+    },
+    {
+        "CategoryName": "Category 4",
+        "MaxAge": 15,
+        "MinAge": 13,
+        "MaxPlayers": 15,
+        "MonthlyFee": 300
+    }
+]
